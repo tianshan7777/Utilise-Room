@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{162F79B7-9C8F-E224-88C1-CB7EB0850320}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/info_morgueroom.txt">
+    <Files>
+      <File FileName="Assets/Locker_room_props/readme.txt" Line="1" Column="1" />
+      <File FileName="Assets/info_morgueroom.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
